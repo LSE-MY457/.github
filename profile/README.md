@@ -1,8 +1,8 @@
 # Welcome to MY457/557
 
-This is the GitHub homepage for MY457/557: Causal Inference for Observational and Experimental Studies at the London School of Economics.
+This is the GitHub organization (homepage) for MY457/557: Causal Inference for Observational and Experimental Studies at the London School of Economics.
 
-The full course website with the full syllabus and weekly links is available [here](https://lse-my457.github.io/).
+The course website with the full syllabus and weekly links is available [here](https://lse-my457.github.io/).
 
 Course materials (slides and seminar materials) are directly available [here](https://github.com/LSE-MY457/course_materials), and are linked through the website.
 
@@ -12,7 +12,7 @@ Course materials (slides and seminar materials) are directly available [here](ht
 * Seminar leaders: [Dr. Lanabi LaLova](mailto:l.lalova@lse.ac.uk), Methodology, and [Dr. Zach Dickson](mailto:z.dickson@lse.ac.uk), Methodology.
 * GTA (no office hours): [Anton Könneke](mailto:a.konneke@lse.ac.uk), Government. 
 
-Office hour may be booked via LSE's StudentHub. If you have questions or concerns about class material, problem sets, or the exam, please use the [class forum on Moodle](https://moodle.lse.ac.uk/mod/forum/view.php?id=1463342). We will generally not reply to emails about the course material, but we will reply promptly to questions posted on the forum. Of course, if you questions or concerns are of a private or personal nature, please email or attend office hours. 
+Office hour may be booked via LSE's StudentHub. If you have questions or concerns about class material, problem sets, or the exam, please use the [class forum on Moodle](X). We will generally not reply to emails about the course material, but we will reply promptly to questions posted on the forum. Of course, if you questions or concerns are of a private or personal nature, please email or attend office hours. 
 
 ### Readings and textbooks
 
@@ -57,3 +57,5 @@ _Note_: if you are particularly interested in graphical models and their applica
 | 7  | Instrumental Variables|  
 | 9  | Regression Discontinuity| 
 | 10/11 | Difference-in-Differences|
+
+**Special thanks**: This course has benefitted tremendously from materials made available by a number of outstanding scholars and teachers. I would especially like to thank Jens Hainmueller, Dominik Hangartner, and Teppei Yamamoto on whose materials this course draws heavily, and to Kiril Borusyak, Paul Goldsmith-Pinkham, and Peter Hull for their publicly available materials. 
