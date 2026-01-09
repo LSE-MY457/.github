@@ -2,9 +2,9 @@
 
 This is the GitHub organization (homepage) for MY457/557: Causal Inference for Observational and Experimental Studies at the London School of Economics.
 
-The course website with the full syllabus and weekly links is available [here](https://lse-my457.github.io/).
+The course website with the full syllabus, weekly readings, and links to relevant materials is [here](https://lse-my457.github.io/).
 
-Course materials (slides and seminar materials) are directly available [here](https://github.com/LSE-MY457/course_materials), and are linked through the website.
+Course materials (slides and seminar materials) are directly available [here](https://github.com/LSE-MY457/course_materials), and are also linked through the website.
 
 ### Instructors
 
