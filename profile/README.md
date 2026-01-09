@@ -1,12 +1,16 @@
 # Welcome to MY457/557
 
-This is the GitHub homepage for MY457/557 at the London School of Economics.
+This is the GitHub homepage for MY457/557: Causal Inference for Observational and Experimental Studies at the London School of Economics.
+
+The full course website with the full syllabus and weekly links is available [here]().
+
+Course materials (slides and seminar materials) are directly available [here](), and are linked through the website.
 
 ### Instructors
 
 * Course convenor and lecturer: [Dr. Daniel de Kadt](mailto:d.n.de-kadt@lse.ac.uk), Methodology.
-* Seminar leaders: [Dr. Lanabi LaLova](mailto:XXX), Methodology, and [Dr. Zach Dickson](mailto:XXX), Methodology.
-* GTA (no office hours): [Anton Konneke](mailto:XXX), Government. 
+* Seminar leaders: [Dr. Lanabi LaLova](mailto:l.lalova@lse.ac.uk), Methodology, and [Dr. Zach Dickson](mailto:z.dickson@lse.ac.uk), Methodology.
+* GTA (no office hours): [Anton Könneke](mailto:a.konneke@lse.ac.uk), Government. 
 
 Office hour may be booked via LSE's StudentHub. If you have questions or concerns about class material, problem sets, or the exam, please use the [class forum on Moodle](https://moodle.lse.ac.uk/mod/forum/view.php?id=1463342). We will generally not reply to emails about the course material, but we will reply promptly to questions posted on the forum. Of course, if you questions or concerns are of a private or personal nature, please email or attend office hours. 
 
