@@ -52,8 +52,8 @@ _Note_: if you are particularly interested in graphical models and their applica
 
 | Week |  Topic | 
 |:--:|:-------|
-| 2  | [Causality and Randomization]|  
-| 4  | [Selection on Observables]|
-| 7  | [Instrumental Variables]|  
-| 9  | [Regression Discontinuity]| 
-| 10/11 | [Difference-in-Differences]|
+| 2  | Causality and Randomization|  
+| 4  | Selection on Observables|
+| 7  | Instrumental Variables|  
+| 9  | Regression Discontinuity| 
+| 10/11 | Difference-in-Differences|
