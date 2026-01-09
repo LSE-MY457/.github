@@ -36,17 +36,17 @@ _Note_: if you are particularly interested in graphical models and their applica
 
 | Week |  Topic |  
 |:--:|:-------|
-| 1  | [Causal Frameworks]|   
-| 2  | [Randomization]| 
-| 3  | [Selection on Observables 1]| 
-| 4  | [Selection on Observables 2]| 
-| 5  | [Selection on Observables 3]| 
+| 1  | Causal Frameworks|   
+| 2  | Randomization| 
+| 3  | Selection on Observables 1| 
+| 4  | Selection on Observables 2| 
+| 5  | Selection on Observables 3| 
 | 6  | _Reading week quiz_|  
-| 7  | [Instrumental Variables 1]|  
-| 8  | [Instrumental Variables 2]|  
-| 9  | [Regression Discontinuity]| 
-| 10 | [Difference-in-Differences 1]|
-| 11 | [Difference-in-Differences 2]| 
+| 7  | Instrumental Variables 1|  
+| 8  | Instrumental Variables 2|  
+| 9  | Regression Discontinuity| 
+| 10 | Difference-in-Differences 1|
+| 11 | Difference-in-Differences 2| 
 
 ### Seminar topics
 
